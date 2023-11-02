@@ -18,7 +18,7 @@ export default function Index() {
   const { message } = useLoaderData<typeof loader>();
   return (
     <>
-      <MyLogo width={24} height={24} />
+      <MyLogo width={24} height={24} stroke="red" strokeWidth={100} />
       <div>{message}</div>
       <MyFunction />
       <Link to="blah">Go to blah!</Link>
