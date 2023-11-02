@@ -21,7 +21,7 @@ export default function Index() {
       <MyLogo width={24} height={24} />
       <div>{message}</div>
       <MyFunction />
-      <Link to="blah">Go to blah</Link>
+      <Link to="blah">Go to blah!</Link>
     </>
   );
 }
