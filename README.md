@@ -1,3 +1,5 @@
+[remix ❤️ vite ⚡️](https://www.youtube.com/watch?v=B_vIp4xETl4)
+
 # templates/unstable-vite
 
 ⚠️ Remix support for Vite is unstable and not recommended for production.
